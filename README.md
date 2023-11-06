@@ -1,4 +1,4 @@
-# Universit-
+# Università-
 Es.1 30/10/2023
 
 def bubble_sort( a ):
